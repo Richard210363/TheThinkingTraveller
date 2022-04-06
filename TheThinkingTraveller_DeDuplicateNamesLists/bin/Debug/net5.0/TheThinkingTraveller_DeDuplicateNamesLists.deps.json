@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TheThinkingTraveller_DeDuplicateNamesLists/1.0.0": {
+        "runtime": {
+          "TheThinkingTraveller_DeDuplicateNamesLists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheThinkingTraveller_DeDuplicateNamesLists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

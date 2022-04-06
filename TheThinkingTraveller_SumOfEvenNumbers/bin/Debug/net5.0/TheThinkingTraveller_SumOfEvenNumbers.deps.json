@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TheThinkingTraveller_SumOfEvenNumbers/1.0.0": {
+        "runtime": {
+          "TheThinkingTraveller_SumOfEvenNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheThinkingTraveller_SumOfEvenNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
